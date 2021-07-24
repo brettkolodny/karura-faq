@@ -22,7 +22,7 @@ Read our guide [here](https://wiki.acala.network/karura/defi-hub/inter-kusama-tr
 Read our guide [here](https://wiki.acala.network/karura/defi-hub/inter-kusama-transfer#transfer-ksm-from-karura-to-kusama).
 
 ## Why is the KSM I sent to the exchange not showing up?
-When sending KSM from Karura to an exchange, you should first send your KSM to Kusama as instructed [here](https://wiki.acala.network/karura/defi-hub/inter-kusama-transfer#transfer-ksm-from-karura-to-kusama). If you didn't do it this way, and instead send directly to the exchage from Karura, your KSM tokens won't show up in your exchange account. The reason for this is that the exchanges don't support direct KSM transfers from the Karura parachain yet. Please contact them regarding how to get your KSM.
+When sending KSM from Karura to an exchange, you should first send your KSM to Kusama. Please follow the instructions posted [here](https://wiki.acala.network/karura/get-started/karura-account/exchange). If you didn't do it this way, and instead send directly to the exchage from Karura, your KSM tokens won't show up in your exchange account. The reason for this is that the exchanges don't offer the right type of support for these transfers yet. Please contact them regarding how to get your KSM.
 
 ## Can I participate in bootstrapping?
 You can participate in bootstrapping during the bootstrap period. The bootstrap period is the process by which new token pairs launch on the Swap. If a token pair exists on the Swap, that means the bootstrap period has ended for that trading pair. You can learn more [here](https://wiki.acala.network/karura/defi-hub/swap/bootstrap-a-pool).
@@ -59,7 +59,7 @@ If you are contributing to only one side of the pool (say Token A), you are effe
 Your trading fees will be paid in the same two coins that you provide liquidity to. The ratio of these tokens reflects the ratio in the pool.
 
 ## What are the risks with adding to an LP pool?
-Providing liquidity to pools comes with some risks. You can learn more about those risks here https://wiki.acala.network/karura/defi-hub/swap/lp-returns-and-risks
+Providing liquidity to pools comes with some risks. You can learn more about those risks [here](https://wiki.acala.network/karura/defi-hub/swap/lp-returns-and-risks).
 
 ## Do I need to claim my LP tokens?
 Yes.
