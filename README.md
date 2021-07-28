@@ -7,7 +7,7 @@ Make sure that your extension is set to “Allow use on any chain.” Refresh th
 Make sure that you are allowing the website access to your extension. Open “Manage Website Access” and make sure that apps.karura.network is allowed. Refresh the web page.
 ![](https://i.imgur.com/xLXSnU2.png)
 
-If both of those attempts fail, it’s possible that another browser extension is interfering or there is some other unknown issue with your browser. Consider downloading a new web browser and redownloading the polkadot.js extension. You can import your account to the polkadot.js extension in the new browser by selecting “import account from pre-existing seed” and entering your seed phrase. Then proceed to connecting the karura app at apps.karura.network
+If both of those attempts fail, it’s possible that another browser extension is interfering or there is some other unknown issue with your browser. Consider downloading a new web browser and redownloading the polkadot.js extension. You can import your account to the polkadot.js extension in the new browser by selecting “import account from pre-existing seed” and entering your seed phrase. Then proceed to connecting the Karura app at apps.karura.network
 ![](https://i.imgur.com/u0NwVY3.png)
 
 ## Can I use Polkawallet to connect to Karura?
